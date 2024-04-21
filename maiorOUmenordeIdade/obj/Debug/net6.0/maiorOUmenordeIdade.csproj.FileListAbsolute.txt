@@ -1,0 +1,14 @@
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\bin\Debug\net6.0\maiorOUmenordeIdade.exe
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\bin\Debug\net6.0\maiorOUmenordeIdade.deps.json
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\bin\Debug\net6.0\maiorOUmenordeIdade.runtimeconfig.json
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\bin\Debug\net6.0\maiorOUmenordeIdade.dll
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\bin\Debug\net6.0\maiorOUmenordeIdade.pdb
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\obj\Debug\net6.0\maiorOUmenordeIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\obj\Debug\net6.0\maiorOUmenordeIdade.AssemblyInfoInputs.cache
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\obj\Debug\net6.0\maiorOUmenordeIdade.AssemblyInfo.cs
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\obj\Debug\net6.0\maiorOUmenordeIdade.csproj.CoreCompileInputs.cache
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\obj\Debug\net6.0\maiorOUmenordeIdade.dll
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\obj\Debug\net6.0\refint\maiorOUmenordeIdade.dll
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\obj\Debug\net6.0\maiorOUmenordeIdade.pdb
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\obj\Debug\net6.0\maiorOUmenordeIdade.genruntimeconfig.cache
+C:\Users\lenov\source\repos\maiorOUmenordeIdade\maiorOUmenordeIdade\obj\Debug\net6.0\ref\maiorOUmenordeIdade.dll
